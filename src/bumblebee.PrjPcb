@@ -85,7 +85,129 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OQGLGKKT
 
+[Document3]
+DocumentPath=Bumblebee.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document4]
+DocumentPath=CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
+DocumentPath=Project Outputs for Bumblebee\Bumblebee.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Bumblebee\Bumblebee.REP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Bumblebee\Bumblebee_Bottom_Tenting.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Bumblebee\Bumblebee_Copper_Signal_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Bumblebee\Bumblebee_Copper_Signal_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Bumblebee\Bumblebee_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Bumblebee\Bumblebee_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Bumblebee\Bumblebee_Drawing_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Bumblebee\Bumblebee_Drillmap_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Bumblebee\Bumblebee_Keep-out.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Bumblebee\Bumblebee_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Bumblebee\Bumblebee_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Bumblebee\Bumblebee_NPTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Bumblebee\Bumblebee_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Bumblebee\Bumblebee_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Bumblebee\Bumblebee_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Bumblebee\Bumblebee_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Bumblebee\Bumblebee_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Bumblebee\Bumblebee_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Bumblebee\Bumblebee_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Bumblebee\Bumblebee_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Bumblebee\Bumblebee_Top_Tenting.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument23]
 DocumentPath=Project Outputs for Bumblebee\Design Rule Check - Bumblebee.html
 DItemRevisionGUID=
 
@@ -98,6 +220,44 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=-1
+
+[Generic_SmartPDFSettings]
+ProjectMode=0
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=0
+TemplateFilename=Board Stack Report.XLT
+TemplateStoreRelative=-1
+PCB_PrintColor=1
+SCH_PrintColor=0
+PrintQuality=-3
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+Wir_PrintColor=0
+Ldr_PrintColor=0
+SCH_ExpandLogicalToPhysical=-1
+SCH_VariantName=[No Variations]
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=-1
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -344,71 +504,75 @@ Name=Fabrication Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Board Stack Report
-OutputName1=Report Board Stack
+OutputType1=NC Drill
+OutputName1=NC Drill Files
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType2=CompositeDrill
-OutputName2=Composite Drill Drawing
+OutputType2=Mask
+OutputName2=Solder/Paste Mask Prints
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType3=Drill
-OutputName3=Drill Drawing/Guides
+OutputType3=IPC2581
+OutputName3=IPC-2581 Files
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType4=Final
-OutputName4=Final Artwork Prints
+OutputType4=Test Points
+OutputName4=Test Point Report
 OutputDocumentPath4=
-OutputVariantName4=[No Variations]
+OutputVariantName4=
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType5=Gerber
-OutputName5=Gerber Files
+OutputType5=Plane
+OutputName5=Power-Plane Prints
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
-OutputType6=Gerber X2
-OutputName6=Gerber X2 Files
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType6=ODB
+OutputName6=ODB++ Files
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=IPC2581
-OutputName7=IPC-2581 Files
+OutputType7=Drill
+OutputName7=Drill Drawing/Guides
 OutputDocumentPath7=
 OutputVariantName7=[No Variations]
 OutputDefault7=0
-OutputType8=Mask
-OutputName8=Solder/Paste Mask Prints
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType8=CompositeDrill
+OutputName8=Composite Drill Drawing
 OutputDocumentPath8=
 OutputVariantName8=[No Variations]
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType9=NC Drill
-OutputName9=NC Drill Files
+OutputType9=Board Stack Report
+OutputName9=Report Board Stack
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=ODB
-OutputName10=ODB++ Files
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType10=Gerber X2
+OutputName10=Gerber X2 Files
 OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
-OutputType11=Plane
-OutputName11=Power-Plane Prints
+Configuration10_Name1=ForceUpdateSettings
+Configuration10_Item1=False
+Configuration10_Name2=OutputConfigurationParameter1
+Configuration10_Item2=BoardID=OQGLGKKT|FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=False|GenerateReports=True|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|MergePadAndRegion=False|MinusApertureTolerance=39|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OutputFormat=Single|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotCounterHolesPairs=False|PlotDrillDrawingPair0_Backdrill=False|PlotDrillDrawingPair0_Checked=True|PlotDrillDrawingPair0_DrillType=Regular|PlotDrillDrawingPair0_FileName= |PlotDrillDrawingPair0_HighLayer=Bottom Layer|PlotDrillDrawingPair0_LowLayer=Top Layer|PlotDrillDrawingPairs=False|PlotDrillGuidePair0_Backdrill=False|PlotDrillGuidePair0_Checked=True|PlotDrillGuidePair0_DrillType=Regular|PlotDrillGuidePair0_FileName= |PlotDrillGuidePair0_HighLayer=Bottom Layer|PlotDrillGuidePair0_LowLayer=Top Layer|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPair0_Backdrill=False|PlotNPTHPair0_Checked=True|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_FileName= |PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_Checked=True|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_FileName= |PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotViaTypeDrillDrawingPairs=False|PlotViaTypeDrillGuidePairs=False|PlotViaTypeDrillPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777218~1,16777219~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16973837~1,16973848~1,16973849~1,16908291~1,16908292~1|PlusApertureTolerance=39|Record=GerberX2View|Sorted=False|DocumentPath=C:\Users\Public\Documents\Altium\Bumblebee V1.2.1\Bumblebee.PcbDoc
+OutputType11=Final
+OutputName11=Final Artwork Prints
 OutputDocumentPath11=
 OutputVariantName11=[No Variations]
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType12=Test Points
-OutputName12=Test Point Report
+OutputType12=Gerber
+OutputName12=Gerber Files
 OutputDocumentPath12=
-OutputVariantName12=
+OutputVariantName12=[No Variations]
 OutputDefault12=0
 
 [OutputGroup6]
@@ -1109,8 +1273,8 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name Only
 ComponentLibraryIdentifier0=University of South Florida
-ComponentDesignItemID0=CMP-031-00006-2
-ComponentSymbolReference0=AP2112K-3.3TRG1
+ComponentDesignItemID0=CMP-017-000000-4
+ComponentSymbolReference0=MCP73831T-2ACI/OT
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1146,17 +1310,17 @@ ParameterName8=Library Reference
 ParameterUpdate8=1
 ParameterName9=Max Operating Temperature
 ParameterUpdate9=1
-ParameterName10=Max Supply Voltage
+ParameterName10=MF
 ParameterUpdate10=1
-ParameterName11=MF
+ParameterName11=Min Operating Temperature
 ParameterUpdate11=1
-ParameterName12=Min Operating Temperature
+ParameterName12=Mounting Technology
 ParameterUpdate12=1
-ParameterName13=Min Supply Voltage
+ParameterName13=MP
 ParameterUpdate13=1
-ParameterName14=Mounting Technology
+ParameterName14=Package
 ParameterUpdate14=1
-ParameterName15=MP
+ParameterName15=Pin Count
 ParameterUpdate15=1
 ParameterName16=Pins
 ParameterUpdate16=1
@@ -1175,7 +1339,7 @@ ParameterUpdate22=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=SOT95P285X140-5N
+ModelName0=SOT95P280X145-5N
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
