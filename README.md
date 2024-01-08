@@ -1,7 +1,7 @@
 # bumblebee
 
-Schematic and PCB for an nrf52840 macropad designed to be a drop-in replacement for the RAMA M6. 
+Schematic and PCB for an nrf52840 macropad programmable with zmk firmware.
 
 ![](https://github.com/akarez/bumblebee/blob/main/outputs/capture.png)
 
->Note: The board is currently in production. Once received I will check that everything works and create a release of the output files.
+>Status: The board is currently in production. Once received I will check that everything works and create a release of the output files.
