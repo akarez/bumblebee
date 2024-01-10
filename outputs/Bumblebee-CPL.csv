@@ -1,23 +1,22 @@
-"Designator","Comment","Layer","Footprint","Mid X(mm)","Mid Y(mm)","Rotation","Description"
-"R7","Resistor 100k +/-1% 0603 100 mW","BottomLayer","RESC1608X55X25ML10T15","7.5858","10.4069","90","Chip Resistor, 100 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric)"
-"R6","Resistor 100k +/-1% 0603 100 mW","BottomLayer","RESC1608X55X25ML10T15","9.7774","15.8861","90","Chip Resistor, 100 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric)"
-"J8","MCP73831T-2ACI/OT","BottomLayer","SOT95P280X145-5N","14.8106","9.0579","90","Charger IC Lithium Ion/Polymer SOT-23-5"
-"D3","APHCM2012SYCK-F01","BottomLayer","FP-APHCM2012SYCK-F01-MFG","18.3800","9.4135","180","LED YELLOW CLEAR CHIP SMD"
-"C5","Capacitor 10µF +/-20% 10V 0603","BottomLayer","CAPC0603(1608)100_L","14.7130","17.2051","90","Chip Capacitor, 10µF +/-20%, 10V, 0603, Thickness 1 mm"
-"C4","Capacitor 10µF +/-20% 10V 0603","BottomLayer","CAPC0603(1608)100_L","12.5774","8.3415","270","Chip Capacitor, 10µF +/-20%, 10V, 0603, Thickness 1 mm"
-"J7","T1M-02-T-SH-L-K","BottomLayer","SAMTEC_T1M-02-T-SH-L-K","9.4200","0.6425","180","1mm JST Connector, surface mounted, horizontal orientation."
-"U1","AP2112K-3.3TRG1","BottomLayer","SOT95P285X140-5N","12.4774","16.3551","90","Linear Voltage Regulator IC Positive Fixed 1 Output 600mA SOT-25"
-"R5","Resistor 1k +/-1% 0603 100 mW","BottomLayer","RESC1608X55X25ML10T15","18.3800","7.8133","180","Chip Resistor, 1 KOhm, +/-1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric)"
-"R4","Resistor 100k +/-1% 0603 100 mW","BottomLayer","RESC1608X55X25ML10T15","15.7130","12.8245","270","Chip Resistor, 100 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric)"
-"Q1","DMG2305UX-13","BottomLayer","FP-SOT23-MFG","10.2774","10.1087","270","MOSFET P-CH 20V 4.2A SOT23"
-"L1","LQG18HN2N2S00D","BottomLayer","FP-LQG18HH_00-IPC_A","4.6606","11.0742","0","General Purpose Inductor, 0.0022uH, 13.636%, 1 Element, Air-Core, SMD, 0603"
-"D2","MBR120ESFT1G","BottomLayer","On_Semiconductor_498_MFG","10.2774","12.9785","180",""
-"C3","Capacitor 100 nF +/-10% 50 V 0603","BottomLayer","CAPC1608X90X40NL10T20","5.4864","9.1186","270","Chip Capacitor, 100 nF, +/- 10%, 50 V, 0603 (1608 Metric)"
-"C2","Capacitor 100 nF +/-10% 50 V 0603","BottomLayer","CAPC1608X90X40NL10T20","3.8345","9.1186","270","Chip Capacitor, 100 nF, +/- 10%, 50 V, 0603 (1608 Metric)"
-"C1","Capacitor 10µF +/-20% 10V 0603","BottomLayer","CAPC0603(1608)100_L","13.4274","12.8245","90","Chip Capacitor, 10µF +/-20%, 10V, 0603, Thickness 1 mm"
-"SW1","TL3342F160QG","BottomLayer","ESWI-TL3342F160QG_V","-19.0500","-7.6200","180","Tactile Switch, SPST-NO, 50 mA, 12 V, 4-Pin SMD, RoHS, Tape and Reel"
-"R3","Resistor 10k +/-1% 0603 100 mW","BottomLayer","RESC1608X55X25ML10T15","-17.6784","6.7818","180","Chip Resistor, 10 KOhm, +/- 1%, 01 W, -55 to 155 degC, 0603 (1608 Metric)"
-"R2","ERA-3AEB512V","BottomLayer","FP-ERA3A-MFG","-7.0866","15.8861","270","Res Thin Film 0603 5.1K Ohm 0.1% 1/10W ±25ppm/°C Molded SMD SMD Punched Carrier T/R"
-"R1","ERA-3AEB512V","BottomLayer","FP-ERA3A-MFG","7.1358","15.8861","270","Res Thin Film 0603 5.1K Ohm 0.1% 1/10W ±25ppm/°C Molded SMD SMD Punched Carrier T/R"
-"P1","USB4110-GF-A","BottomLayer","FP-USB4110-GF-A-MFG","0.0208","15.8577","0","Conn USB Type C RCP 16 POS 0.3mm/0.5mm Solder ST SMD 16 Terminal 1 Port T/R"
-"D1","USBLC6-2SC6","BottomLayer","STM-SOT23-6L_V","0.0254","10.0076","90","Very low capacitance ESD protection, 3.5 pF, -40 to 125 degC, 6-Pin SOT23, RoHS, Tape and Reel"
+Designator,Comment,Layer,Footprint,Mid X(mm),Mid Y(mm),Rotation,Description
+R7,Resistor 100k +/-1% 0603 100 mW,BottomLayer,RESC1608X55X25ML10T15,"75,858","104,069",90,"Chip Resistor, 100 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric)"
+R6,Resistor 100k +/-1% 0603 100 mW,BottomLayer,RESC1608X55X25ML10T15,"97,774","158,861",90,"Chip Resistor, 100 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric)"
+J8,MCP73831T-2ACI/OT,BottomLayer,SOT95P280X145-5N,"148,106","90,579",90,Charger IC Lithium Ion/Polymer SOT-23-5
+D3,APHCM2012SYCK-F01,BottomLayer,FP-APHCM2012SYCK-F01-MFG,"183,800","94,135",180,LED YELLOW CLEAR CHIP SMD
+C5,Capacitor 10µF +/-20% 10V 0603,BottomLayer,CAPC0603(1608)100_L,"147,130","172,051",90,"Chip Capacitor, 10µF +/-20%, 10V, 0603, Thickness 1 mm"
+C4,Capacitor 10µF +/-20% 10V 0603,BottomLayer,CAPC0603(1608)100_L,"125,774","83,415",270,"Chip Capacitor, 10µF +/-20%, 10V, 0603, Thickness 1 mm"
+U1,AP2112K-3.3TRG1,BottomLayer,SOT95P285X140-5N,"124,774","163,551",90,Linear Voltage Regulator IC Positive Fixed 1 Output 600mA SOT-25
+R5,Resistor 1k +/-1% 0603 100 mW,BottomLayer,RESC1608X55X25ML10T15,"183,800","78,133",180,"Chip Resistor, 1 KOhm, +/-1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric)"
+R4,Resistor 100k +/-1% 0603 100 mW,BottomLayer,RESC1608X55X25ML10T15,"157,130","128,245",270,"Chip Resistor, 100 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0603 (1608 Metric)"
+Q1,DMG2305UX-13,BottomLayer,FP-SOT23-MFG,"102,774","101,087",270,MOSFET P-CH 20V 4.2A SOT23
+L1,LQG18HN2N2S00D,BottomLayer,FP-LQG18HH_00-IPC_A,"46,606","110,742",0,"General Purpose Inductor, 0.0022uH, 13.636%, 1 Element, Air-Core, SMD, 0603"
+D2,MBR120ESFT1G,BottomLayer,On_Semiconductor_498_MFG,"102,774","129,785",180,
+C3,Capacitor 100 nF +/-10% 50 V 0603,BottomLayer,CAPC1608X90X40NL10T20,"54,864","91,186",270,"Chip Capacitor, 100 nF, +/- 10%, 50 V, 0603 (1608 Metric)"
+C2,Capacitor 100 nF +/-10% 50 V 0603,BottomLayer,CAPC1608X90X40NL10T20,"38,345","91,186",270,"Chip Capacitor, 100 nF, +/- 10%, 50 V, 0603 (1608 Metric)"
+C1,Capacitor 10µF +/-20% 10V 0603,BottomLayer,CAPC0603(1608)100_L,"134,274","128,245",90,"Chip Capacitor, 10µF +/-20%, 10V, 0603, Thickness 1 mm"
+SW1,TL3342F160QG,BottomLayer,ESWI-TL3342F160QG_V,"-190,500","-90,932",270,"Tactile Switch, SPST-NO, 50 mA, 12 V, 4-Pin SMD, RoHS, Tape and Reel"
+R3,Resistor 10k +/-1% 0603 100 mW,BottomLayer,RESC1608X55X25ML10T15,"-176,530","69,342",180,"Chip Resistor, 10 KOhm, +/- 1%, 01 W, -55 to 155 degC, 0603 (1608 Metric)"
+R2,ERA-3AEB512V,BottomLayer,FP-ERA3A-MFG,"-70,866","158,861",270,Res Thin Film 0603 5.1K Ohm 0.1% 1/10W ±25ppm/°C Molded SMD SMD Punched Carrier T/R
+R1,ERA-3AEB512V,BottomLayer,FP-ERA3A-MFG,"71,358","158,861",270,Res Thin Film 0603 5.1K Ohm 0.1% 1/10W ±25ppm/°C Molded SMD SMD Punched Carrier T/R
+P1,USB4110-GF-A,BottomLayer,FP-USB4110-GF-A-MFG,"0,0208","158,577",0,Conn USB Type C RCP 16 POS 0.3mm/0.5mm Solder ST SMD 16 Terminal 1 Port T/R
+D1,USBLC6-2SC6,BottomLayer,STM-SOT23-6L_V,"0,0254","100,076",90,"Very low capacitance ESD protection, 3.5 pF, -40 to 125 degC, 6-Pin SOT23, RoHS, Tape and Reel"
