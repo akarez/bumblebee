@@ -1,0 +1,11 @@
+file_format: "1"
+id: bumblebee
+name: Bumblebee M6
+type: board
+arch: arm
+features:
+  - keys
+  - backlight
+outputs:
+  - usb
+url: https://github.com/akarez/bumblebee
