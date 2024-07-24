@@ -2,5 +2,5 @@
 
 <p align="center">
     Wireless mechanical six-key macropad programmable with ZMK firmware.
-    <img src="https://github.com/akarez/bumblebee/blob/main/assets/capture.png" alt="bumblebee 3D render">
+    <img src="https://github.com/akarez/bumblebee/blob/develop/assets/capture.png" alt="bumblebee 3D render">
 </p>
