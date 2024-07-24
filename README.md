@@ -1,5 +1,6 @@
-# bumblebee
+<h1 align="center">bumblebee</h1>
 
-Schematic and PCB for an nrf52840 macropad programmable with zmk firmware. 
-
->Status: Hardware revision-A is finalized and released. Currently working on firmware.
+<p align="center">
+    Wireless mechanical six-key macropad programmable with ZMK firmware.
+    <img src="https://github.com/akarez/bumblebee/blob/main/assets/capture.png" alt="bumblebee 3D render">
+</p>
